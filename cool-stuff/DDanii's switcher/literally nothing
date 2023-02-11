@@ -1,0 +1,5 @@
+function literallynothing(lol)
+print(lol)
+end
+
+literallynothing("owo")
